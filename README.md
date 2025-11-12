@@ -1,0 +1,1 @@
+# mdc_kart_projesi
